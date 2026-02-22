@@ -2,7 +2,7 @@
 
 Just finished **Module 5 – Data Platforms with Bruin** and explored how modern data platforms can be built using a single CLI tool.
 
-### 📘 What I Learned
+### 📘 What I Learned for this problem statement.
 
 - ✅ Build end-to-end ELT pipelines with **Bruin**
 - ✅ Configure environments and connections
