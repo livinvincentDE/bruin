@@ -1,0 +1,12 @@
+🚀 Week 5 of Data Engineering Zoomcamp by @DataTalksClub complete!
+
+Just finished Module 5 - Data Platforms with Bruin. Learned how to:
+
+✅ Build end-to-end ELT pipelines with Bruin
+✅ Configure environments and connections
+✅ Use materialization strategies for incremental processing
+✅ Add data quality checks to ensure data integrity
+✅ Deploy pipelines from local to cloud (BigQuery)
+
+Modern data platforms in a single CLI tool - no vendor lock-in!
+
